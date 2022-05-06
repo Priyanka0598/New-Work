@@ -9,7 +9,10 @@ public void sample() {
 }
 @Test
 public void all() {
-	System.out.println("chavan");
+	System.out.println("ch");
+}
+public void demo() {
+	System.out.println("hello");
 }
 
 
